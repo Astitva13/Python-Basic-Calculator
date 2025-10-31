@@ -1,4 +1,4 @@
-# 🧮 Flask-Based Python Basic Calculator
+# 🧮 Python Basic Calculator
 
 A simple **web-based calculator** built using **Flask (Python)** that performs basic arithmetic operations like addition, subtraction, multiplication, and division.
 This project demonstrates the use of **Flask routing, templates, and form handling** to create an interactive web application.
@@ -32,8 +32,8 @@ This project demonstrates the use of **Flask routing, templates, and form handli
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/flask-calculator.git
-cd flask-calculator
+git clone https://github.com/Astitva13/Python-Basic-Calculator.git
+cd Python-Basic-Calculator
 ```
 
 ### 2. Create and activate a virtual environment (optional but recommended)
@@ -124,11 +124,12 @@ flask-calculator/
 ## 👨‍💻 Author
 
 **Astitva Mishra**
-📧 [[your.email@example.com](mailto:your.email@example.com)]
-🔗 [GitHub Profile](https://github.com/yourusername)
+📧 [astitvamishra13@gmail.com]
+🔗 [GitHub Profile](https://github.com/Astitva13)
 
 ---
 
 ## 📄 License
 
 This project is licensed under the **MIT License** – feel free to use and modify it.
+
